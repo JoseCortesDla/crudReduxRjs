@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "nombre": "cookies",
+      "precio": "321",
+      "id": 15
+    },
+    {
+      "nombre": "tequila",
+      "precio": 392,
+      "id": 18
+    },
+    {
+      "nombre": "caguama",
+      "precio": 40,
+      "id": 19
+    },
+    {
+      "nombre": "mezcal",
+      "precio": 30,
+      "id": 20
+    },
+    {
+      "nombre": "Leche",
+      "precio": 20,
+      "id": 21
+    },
+    {
+      "nombre": "coca",
+      "precio": 20,
+      "id": 27
+    }
+  ]
+}
